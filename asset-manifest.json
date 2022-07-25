@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reddit-api-get-article-titles-app-reactjs/static/css/main.96aba77b.css",
+    "main.js": "/reddit-api-get-article-titles-app-reactjs/static/js/main.a160532a.js",
+    "index.html": "/reddit-api-get-article-titles-app-reactjs/index.html",
+    "main.96aba77b.css.map": "/reddit-api-get-article-titles-app-reactjs/static/css/main.96aba77b.css.map",
+    "main.a160532a.js.map": "/reddit-api-get-article-titles-app-reactjs/static/js/main.a160532a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96aba77b.css",
+    "static/js/main.a160532a.js"
+  ]
+}
