@@ -14,7 +14,7 @@ function App() {
   return (
     <section>
       <div className="box">
-      <h2>Reddit Api App</h2>
+      <h2>Reddit Api Get Article Titles App</h2>
         <div className="display"> 
           <input type="text" placeholder="Type here..." value={val} onChange={e => setVal(e.target.value)}/>
         </div>
