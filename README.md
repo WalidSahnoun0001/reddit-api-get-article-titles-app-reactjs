@@ -1,2 +1,2 @@
-#Reddit Api Get Article Titles App 
+Reddit Api Get Article Titles App 
 Made with Reactjs
