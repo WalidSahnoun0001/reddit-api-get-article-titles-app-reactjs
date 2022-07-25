@@ -1,13 +1,44 @@
-body {
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  outline: none;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+section {
+  width: 70%;
+  margin: 0 auto;
+}
+section .box {
+  margin: 25px 0;
+}
+section .box h2 {
+ color: #333; 
+}
+section .box input {
+  border: none;
+  padding: 10px 15px;
+  background-color: rgb(11, 190, 163);
+  border-radius: 5px;
+  width: 100%;
+  margin: 20px 0;
+  color: #fff;
+}
+section .box input::placeholder {
+  color: #fff;
+}
+section .box h3 {
+  color: rgb(13, 177, 180);
+  text-align: center;
+}
+section .box .articles article {
+  font-size: 15px;
+  border-radius: 5px;
+  margin: 20px 0;
+  background-color: #eee;
+  padding: 10px 15px;
+}
+section .box .articles article a {
+  text-decoration: none;
+  color: #333;
 }
